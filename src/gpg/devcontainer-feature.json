@@ -1,0 +1,9 @@
+{
+  "name": "gpg",
+  "id": "gpg",
+  "version": "1.0.0",
+  "description": "Add gpg for code signing, sops, etc",
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
